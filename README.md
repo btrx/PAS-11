@@ -12,4 +12,10 @@
 5. Memiliki Collectible Items dengan ketentuan berikut:
    - Terdapat paling sedikit 2 macam/tipe
    - Bisa diambil dan masuk inventory dan juga memiliki detail.
-6. Membuat Inventory System yang bisa dibuga dan berfungsi untuk menyimpan dan menampilkan detail item
+6. Membuat Inventory System yang bisa dibuga dan berfungsi untuk menyimpan dan menampilkan detail item ketika.
+7. Memiliki stage lebih dari dua dengan ketentuan:
+   - Untuk pindah ke stage selanjutnya harus mengumpulkan seluruh collectible item dan HP tidak reset.
+   - Tingkat kesulitan meningkat bisa dengan menambah musuh.
+   - Collectible makin banyak.
+9. Pengumpulan adalah presentasi hasilnya mandiri ke saya.
+10. Durasi pengerjaan 4 Minggu.
