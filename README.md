@@ -19,3 +19,5 @@
    - Collectible makin banyak.
 9. Pengumpulan adalah presentasi hasilnya mandiri ke saya.
 10. Durasi pengerjaan 4 Minggu.
+
+#Poin plus jika bikin asset sendiri atau menambahkan fitur yang tidak ada dan works.
