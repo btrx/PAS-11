@@ -1,7 +1,7 @@
 # PAS-11
 
 ## Silahkan baca instruksi dengan seksama
-## Silahkan buat game rougelike dengan map generator script yang sudah disediakan dengan ketentuan sebagai berikut:
+## Silahkan buat game dengan map generator script yang sudah disediakan dengan ketentuan sebagai berikut:
 
 1. Memiliki Player dengan behaviour:
    - Punya HP dan healthbar.
